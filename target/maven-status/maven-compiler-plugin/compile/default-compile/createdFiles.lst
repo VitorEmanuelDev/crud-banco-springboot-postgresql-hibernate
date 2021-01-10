@@ -1,0 +1,7 @@
+com/bancocrud/springboot/repository/CadastroRepository.class
+com/bancocrud/springboot/controller/CadastroController.class
+com/bancocrud/springboot/exception/ErrorDetails.class
+com/bancocrud/springboot/CrudBancoSpringbootPostgresqlHibernateApplication.class
+com/bancocrud/springboot/model/Cadastro.class
+com/bancocrud/springboot/exception/GlobalExceptionHandler.class
+com/bancocrud/springboot/exception/ResourceNotFoundException.class
