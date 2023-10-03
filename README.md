@@ -19,11 +19,11 @@ step 3: docker-compose up -d --force-recreate
 
 Veryfing database in container:
 
-step 1: docker exec -it 'image id' psql 'user name' 'database name'
+step 1: docker exec -it 'image id' psql postgres CadastrosDB
 
 step 2: \dt
 
-step 3: select * from 'database name';
+step 3: select * from CadastrosDB;
 
 Build and run spring boot app
 
