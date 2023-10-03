@@ -38,5 +38,7 @@ docker logs springboot-postgresql
 Verify network and ports
 
 docker network inspect 'my network'
+
 lsof -i :port
+
 kill -9 'process id'
